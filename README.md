@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ludovitkramar
-- 👀 I’m interested inL stuff
+- 👀 I’m interested in: stuff
 - 🌱 I’m currently learning: things
 - 💞️ I’m looking to collaborate on: projects
 - 📫 How to reach me: https://matrix.to/#/@root:matrix.kykvit.com
