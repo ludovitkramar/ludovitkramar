@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @ludovitkramar
-- 📫 How to reach me: https://matrix.to/#/@root:matrix.kykvit.com
-- 📫 How to reach me: ludovit.34@gmail.com
+- 📫 How to reach me: ludovitkramar@protonmail.com
